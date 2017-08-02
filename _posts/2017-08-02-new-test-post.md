@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Prova Silvia"
+title: "Prova Silvia 2"
 subtitle: "prova prova prova"
-date: 2017-08-02
+date: 2017-08-03
 image: false
 categories: false
 by: "Silvia"
-published: false
+published: true
 ---
 
-Hello, this is a great test post XD
+Hello, this is a great test post :)
 
 
 # test h1
