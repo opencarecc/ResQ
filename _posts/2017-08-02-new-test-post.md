@@ -4,7 +4,7 @@ title: "Prova Silvia"
 subtitle: "prova prova prova"
 date: 2017-08-02
 image: false
-categories: [chiamata]
+categories: false
 by: "Silvia"
 published: true
 ---
