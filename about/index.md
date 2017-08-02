@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About WeHandU by opencare.cc
+title: About ResQ by opencare.cc
 ---
 
 # About page
