@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description></description>
-    <link>/MicroWebsiteTemplate/</link>
-    <atom:link href="/MicroWebsiteTemplate/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Nov 2016 16:00:15 +0100</pubDate>
-    <lastBuildDate>Thu, 03 Nov 2016 16:00:15 +0100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 02 Aug 2017 13:22:24 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Aug 2017 13:22:24 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Fri, 02 Sep 2016 10:13:04 +0200</pubDate>
-        <link>/MicroWebsiteTemplate/blog/2016/09/02/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">/MicroWebsiteTemplate/blog/2016/09/02/welcome-to-jekyll/</guid>
+        <link>/blog/2016/09/02/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">/blog/2016/09/02/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
@@ -43,8 +43,8 @@
 &lt;p&gt;this is a test for a new post&lt;/p&gt;
 </description>
         <pubDate>Wed, 31 Aug 2016 00:00:00 +0200</pubDate>
-        <link>/MicroWebsiteTemplate/blog/2016/08/31/new-post/</link>
-        <guid isPermaLink="true">/MicroWebsiteTemplate/blog/2016/08/31/new-post/</guid>
+        <link>/blog/2016/08/31/new-post/</link>
+        <guid isPermaLink="true">/blog/2016/08/31/new-post/</guid>
         
         
       </item>
@@ -60,19 +60,8 @@
 &lt;p&gt;&lt;a href=&quot;http://opencare.cc&quot;&gt;test link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Aug 2016 00:00:00 +0200</pubDate>
-        <link>/MicroWebsiteTemplate/blog/2016/08/30/test-post/</link>
-        <guid isPermaLink="true">/MicroWebsiteTemplate/blog/2016/08/30/test-post/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hank Quinlan, Horrible Cop, Launches Site</title>
-        <description>&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 Apr 2014 00:00:00 +0200</pubDate>
-        <link>/MicroWebsiteTemplate/blog/2014/04/30/hank-quinlan-site-launched/</link>
-        <guid isPermaLink="true">/MicroWebsiteTemplate/blog/2014/04/30/hank-quinlan-site-launched/</guid>
+        <link>/blog/2016/08/30/test-post/</link>
+        <guid isPermaLink="true">/blog/2016/08/30/test-post/</guid>
         
         
       </item>

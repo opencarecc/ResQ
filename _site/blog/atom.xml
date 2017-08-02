@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Blog about Prototype01 by opencarecc</title>
-	<link href="http://opencarecc.github.io/MicroWebsiteTemplate/blog/atom.xml" rel="self"/>
-	<link href="http://opencarecc.github.io/MicroWebsiteTemplate/blog"/>
-	<updated>2016-11-03T16:00:15+01:00</updated>
-	<id>http://opencarecc.github.io/MicroWebsiteTemplate/blog</id>
+	<link href="http://opencarecc.github.io/ResQ/blog/atom.xml" rel="self"/>
+	<link href="http://opencarecc.github.io/ResQ/blog"/>
+	<updated>2017-08-02T13:22:24+02:00</updated>
+	<id>http://opencarecc.github.io/ResQ/blog</id>
 	<author>
 		<name>opencare.cc</name>
 		<email>info@opencare.cc</email>
@@ -14,9 +14,9 @@
 	
 		<entry>
 			<title>Welcome to Jekyll!</title>
-			<link href="/MicroWebsiteTemplate/blog/2016/09/02/welcome-to-jekyll/"/>
+			<link href="/blog/2016/09/02/welcome-to-jekyll/"/>
 			<updated>2016-09-02T10:13:04+02:00</updated>
-			<id>/MicroWebsiteTemplate/blog/2016/09/02/welcome-to-jekyll</id>
+			<id>/blog/2016/09/02/welcome-to-jekyll</id>
 			<content type="html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -36,9 +36,9 @@
 	
 		<entry>
 			<title>New Post</title>
-			<link href="/MicroWebsiteTemplate/blog/2016/08/31/new-post/"/>
+			<link href="/blog/2016/08/31/new-post/"/>
 			<updated>2016-08-31T00:00:00+02:00</updated>
-			<id>/MicroWebsiteTemplate/blog/2016/08/31/new-post</id>
+			<id>/blog/2016/08/31/new-post</id>
 			<content type="html">&lt;h1&gt;New Post&lt;/h1&gt;
 &lt;p&gt;this is a test for a new post&lt;/p&gt;
 </content>
@@ -46,9 +46,9 @@
 	
 		<entry>
 			<title>test post</title>
-			<link href="/MicroWebsiteTemplate/blog/2016/08/30/test-post/"/>
+			<link href="/blog/2016/08/30/test-post/"/>
 			<updated>2016-08-30T00:00:00+02:00</updated>
-			<id>/MicroWebsiteTemplate/blog/2016/08/30/test-post</id>
+			<id>/blog/2016/08/30/test-post</id>
 			<content type="html">&lt;p&gt;Hello, this is a test post.&lt;/p&gt;
 
 &lt;h1 id=&quot;test-h1&quot;&gt;test h1&lt;/h1&gt;
@@ -56,15 +56,6 @@
 &lt;h2 id=&quot;test-h2&quot;&gt;test h2&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://opencare.cc&quot;&gt;test link&lt;/a&gt;&lt;/p&gt;
-</content>
-		</entry>
-	
-		<entry>
-			<title>Hank Quinlan, Horrible Cop, Launches Site</title>
-			<link href="/MicroWebsiteTemplate/blog/2014/04/30/hank-quinlan-site-launched/"/>
-			<updated>2014-04-30T00:00:00+02:00</updated>
-			<id>/MicroWebsiteTemplate/blog/2014/04/30/hank-quinlan-site-launched</id>
-			<content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
 </content>
 		</entry>
 	
