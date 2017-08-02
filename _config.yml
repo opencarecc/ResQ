@@ -1,4 +1,4 @@
-name:ResQ by opencarecc
+name: ResQ by opencarecc
 markdown: kramdown
 baseurl:
 permalink: /blog/:year/:month/:day/:title/
