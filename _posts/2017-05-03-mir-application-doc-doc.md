@@ -3,13 +3,11 @@ layout: post
 title: "opencare MIR application - Doc.doc"
 subtitle: "prova prova prova"
 date: 2017-05-03 10:13:04 +0200
-image: false
+image: "https://github.com/opencarecc/ResQ/blob/gh-pages/assets/POST-Img-Doc-doc-board.png"
 categories: news
 by: "Silvia"
 published: true
 ---
-
-![Doc.Doc](ResQ/assets/POST-Img-Doc-doc-board.png)
 
 <blockquote>Doc.doc è la soluzione per mettere in contatto medici che seguono lo stesso paziente, fornendo loro la panoramica più completa possibile.</blockquote>
 
@@ -19,9 +17,9 @@ Read our application on <b>EdgeRyders</b> by clicking on this [link](https://edg
 
 The <b>opencare Maker in Residence</b> is the first edition of a special residency program organized by [WeMake](wemake.cc), as part of the <b>opencare</b> European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
 
-We applied as <b>Doc.Doc</b>, a <i>platform</i> which facilitates the communications between different physicians about the health state of a patient. More and more complex pathologies require a collaboration between different specialists.
+We applied as <b>Doc.doc</b>, a <b>platform</b> which facilitates the communications between different physicians about the health state of a patient. More and more complex pathologies require a collaboration between different specialists.
 
-## Release 0.1 - 2017/05/03
+### Release 0.1 - 2017/05/03
 
 * <b>Project Name:</b>
   * Doc.Doc
@@ -34,5 +32,5 @@ We applied as <b>Doc.Doc</b>, a <i>platform</i> which facilitates the communicat
 * <b>The solution:</b>
   * A digital solution (a platform, an app)
   * A digital database
-* Link:
+* <b>Link:</b>
   * [MIR Application 03/05/2017](https://edgeryders.eu/t/mir-application-doc-doc-now-resq/6578)
