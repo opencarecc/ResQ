@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR application - Doc.doc"
 subtitle: "prova prova prova"
 date: 2017-05-03 10:13:04 +0200
-image: "https://github.com/opencarecc/ResQ/blob/gh-pages/assets/POST-Img-Doc-doc-board.png"
+image: "https://opencarecc.github.io/ResQ/assets/POST-Img-Doc-doc-board.png"
 categories: news
 by: "Silvia"
 published: true
