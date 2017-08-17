@@ -19,6 +19,8 @@ The <b>opencare Maker in Residence</b> is the first edition of a special residen
 
 We applied as <b>Doc.doc</b>, a <b>platform</b> which facilitates the communications between different physicians about the health state of a patient. More and more complex pathologies require a collaboration between different specialists.
 
+***
+
 ### Release 0.1 - 2017/05/03
 
 * <b>Project Name:</b>
