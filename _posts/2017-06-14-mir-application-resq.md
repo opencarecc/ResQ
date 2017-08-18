@@ -13,7 +13,9 @@ published: true
 
 After the first submission, our original project  ["Doc.Doc"](https://edgeryders.eu/t/mir-application-doc-doc-now-resq/6578) got some feedbacks and contributes that convinced us to implement those inspirations that eventually turned out the early project in ResQ!
 
-In particular was pointed out how the core concept of our proposal could have been way more effective if applied in <b>critical healthcare context</b> (such as emergency hospitals and refugees reception centers) where the language barriers affect the quality and efficacy of the medical treatment.
+Currently, the <b>first aid</b> provided to <b>refugees</b> arriving in Italy is effective in terms of solving the main health issues (healing of hurts due to the journey, or state of fever), but at the same time is not very efficient because of the superficial anamnestic research that physicians are compelled to make in such situations.
+
+In particular was pointed out how the core concept of our proposal could have been way more effective if applied in <b>critical healthcare context</b> (such as emergency hospitals and refugees reception centers) where the <b>language barriers</b> affect the quality and efficacy of the medical treatment.
 
 <blockquote><i>[...] ResQ is a mobile management tool that improves the communication among healthcare workers (especially physicians, but also volunteers, nurses etc etc...), getting as a result the reduction of the language barrier that very often doesn’t allow foreign patient to fully explain their symptoms or their own pathologies.</i></blockquote>
 
