@@ -1,4 +1,4 @@
-name: ResQ 
+name: ResQ by opencare
 markdown: kramdown
 baseurl:
 permalink: /blog/:year/:month/:day/:title/
