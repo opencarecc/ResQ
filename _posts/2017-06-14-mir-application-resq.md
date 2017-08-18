@@ -13,9 +13,9 @@ published: true
 
 After the first submission, our original project  ["Doc.Doc"](https://edgeryders.eu/t/mir-application-doc-doc-now-resq/6578) got some feedbacks and contributes that convinced us to implement those inspirations that eventually turned out the early project in ResQ!
 
-In particular was pointed out how the core concept of our proposal could have been way more effective if applied in critical healthcare context (such as emergency hospitals and refugees reception centers) where the language barriers affect the quality and efficacy of the medical treatment.
+In particular was pointed out how the core concept of our proposal could have been way more effective if applied in <b>critical healthcare context</b> (such as emergency hospitals and refugees reception centers) where the language barriers affect the quality and efficacy of the medical treatment.
 
-<blockquote><i>ResQ is a mobile management tool that improves the communication among healthcare workers (especially physicians, but also volunteers, nurses etc etc...), getting as a result the reduction of the language barrier that very often doesn’t allow foreign patient to fully explain their symptoms or their own pathologies.</i></blockquote>
+<blockquote><i>[...] ResQ is a mobile management tool that improves the communication among healthcare workers (especially physicians, but also volunteers, nurses etc etc...), getting as a result the reduction of the language barrier that very often doesn’t allow foreign patient to fully explain their symptoms or their own pathologies.</i></blockquote>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZSMi316E-Y" frameborder="0" allowfullscreen></iframe>
 
@@ -44,3 +44,4 @@ Continue to read our story on <b>EdgeRyders</b> by clicking on this [link](https
   * A mobile management tool
 * <b>Link:</b>
   * [MIR Pivot 14/06/2017](https://edgeryders.eu/t/mir-application-doc-doc-now-resq/6578/6)
+  * [MIR Application 14/06/2017](https://edgeryders.eu/t/mir-application-resq-was-doc-doc/833)
