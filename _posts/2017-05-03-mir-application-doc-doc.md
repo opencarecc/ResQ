@@ -8,13 +8,13 @@ categories: news
 by: "Silvia"
 published: true
 ---
-On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-Doc-doc-board-01.png" alt="Doc.doc">
 
 <blockquote><i>Doc.doc è la soluzione per mettere in contatto medici che seguono lo stesso paziente, fornendo loro la panoramica più completa possibile.</i></blockquote>
 
- 
+On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
+
 The <b>opencare Maker in Residence</b> is the first edition of a special residency program organized by [WeMake](wemake.cc), as part of the <b>opencare</b> European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-Doc-doc-board-02.png" alt="Doc.doc">
