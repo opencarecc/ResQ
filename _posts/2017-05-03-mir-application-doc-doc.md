@@ -7,6 +7,7 @@ image: /ResQ/assets/ResQ-post-img-Doc-doc-board.png
 categories: news
 by: "Silvia"
 published: true
+excerpt: On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
 ---
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-Doc-doc-board-01.png" alt="Doc.doc">

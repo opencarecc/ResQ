@@ -7,6 +7,7 @@ image: /ResQ/assets/ResQ-post-img-interview.jpg
 categories: news
 by: "Silvia"
 published: true
+excerpt: ResQ and WeMake, we met each other!
 ---
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-interview.jpg" alt="ResQ-Interview">

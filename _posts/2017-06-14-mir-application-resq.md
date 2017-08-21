@@ -7,6 +7,7 @@ image: /ResQ/assets/ResQ-post-img-ResQ-board-01.png
 categories: news
 by: "Silvia"
 published: true
+excerpt: Thanks to different feedbacks we implemented our project from Doc.doc to ResQ.
 ---
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-ResQ-board-01.png" alt="ResQ">
