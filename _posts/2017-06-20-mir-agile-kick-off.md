@@ -15,17 +15,6 @@ Together with Chiara and Silvia, from the WeMake - OpenCare MIR team, we explore
 
 For those who are not familiar with this methodology, Agile is an effective way of working that helps teams in identifying their unique value proposition, and how to make it real.
 
-<div class="row">
-<div class="column">
-  <div class="img_slider">
-    <img src="https://opencarecc.github.io/ResQ/assets/ResQ-slider-img-mir-1.jpg">
-    <img src="https://opencarecc.github.io/ResQ/assets/ResQ-slider-img-mir-2.png">
-    <img src="https://opencarecc.github.io/ResQ/assets/ResQ-slider-img-mir-3.jpg">
-    <img src="https://opencarecc.github.io/ResQ/assets/ResQ-slider-img-mir-4.jpg">
-  </div>
-  <p>Some moments from the <b>opencare MIR</b> of <b>ResQ.</b></p>
-</div>
-
 Therefore we went through the following steps:
 
 1. Why are we here
