@@ -10,9 +10,9 @@ published: true
 excerpt: Together with Chiara and Silvia, from the WeMake - <b>opencare MIR</b> team, we explored the main steps of the <b>Agile Planning</b>.
 ---
 
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-kickoff.jpg" alt="ResQ-01">
-
 <blockquote><i>ResQ: Behind the boundaries!</i></blockquote>
+
+<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-kickoff.jpg" alt="ResQ-01">
 
 Together with Chiara and Silvia, from the WeMake - <b>opencare MIR</b> team, we explored the main steps of the <b>Agile Planning</b>, which made us able to focus more on our project ResQ.
 
