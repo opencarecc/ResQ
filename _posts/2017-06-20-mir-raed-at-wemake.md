@@ -7,6 +7,7 @@ image: /ResQ/assets/ResQ-post-img-raed-02.jpg
 categories: news
 by: "Silvia"
 published: true
+excerpt: During the first week of the <b>opencare MIR</b>, we get in contact with different associations and we met a lot of interesting people.
 ---
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-raed-02.jpg" alt="ResQ-Raed">
