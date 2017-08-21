@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR - Agile Kick-off"
 subtitle: "prova prova prova"
 date: 2017-06-20 10:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-kickoff.jpg
+image: https://opencarecc.github.io/ResQ/assets/ResQ-post-img-kickoff.jpg
 categories: news
 by: "Silvia"
 excerpt: Together with Chiara and Silvia, from the WeMake - <b>opencare MIR</b> team, we explored the main steps of the <b>Agile Planning</b>.
