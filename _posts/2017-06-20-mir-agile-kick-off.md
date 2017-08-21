@@ -2,7 +2,7 @@
 layout: post
 title: "opencare MIR - Agile Kick-off"
 subtitle: "prova prova prova"
-date: 2017-06-14 10:13:04 +0200
+date: 2017-06-20 10:13:04 +0200
 image: /ResQ/assets/ResQ-post-img-01.jpg
 categories: news
 by: "Silvia"
