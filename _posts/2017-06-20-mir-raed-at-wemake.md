@@ -1,34 +1,26 @@
 ---
 layout: post
-title: "opencare MIR - Agile Kick-off"
+title: "opencare MIR - New team member!"
 subtitle: "prova prova prova"
-date: 2017-06-20 10:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-kickoff.jpg
+date: 2017-06-20 16:13:04 +0200
+image: /ResQ/assets/ResQ-post-img-raed-02.jpg
 categories: news
 by: "Silvia"
 published: true
 ---
 
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-kickoff.jpg" alt="ResQ-01">
+<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-raed-02.jpg" alt="ResQ-01">
 
-<blockquote><i>ResQ: Behind the boundaries!</i></blockquote>
+During the first week of the <b>opencare MIR</b>, we get in contact with different associations and we met a lot of interesting people.
 
-Together with Chiara and Silvia, from the WeMake - <b>opencare MIR</b> team, we explored the main steps of the <b>Agile Planning</b>, which made us able to focus more on our project ResQ.
+Through this post, we want to present you <b>Raed Kassem</b>, who will be part of the ResQ team! We are more than happy to <b>welcome</b> Raed in our research group!
 
-For those who are not familiar with this methodology, Agile is an effective way of working that helps teams in identifying their unique value proposition, and how to make it real.
+<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-logo-02.png" alt="ResQ-01">
 
-Therefore we went through the following steps:
+Raed works and collaborates everyday with <b>refugees and migrants in Milan.</b> We have been really lucky to meet him. Therefore, on 20th of June, he came at WeMake to discuss together about the <b>organization of the event</b> that we want to promote to <b>[Naga](http://www.naga.it/)</b> in order to analyze and conduct the user research of <b>ResQ project.</b>
 
-1. Why are we here
-2. The elevator pitch
-3. The product box
-4. The Not list
-5. Meet your neighbours
-6. What keep us up at night
-7. Size it up
+<blockquote><i>Il Naga è un'associazione di volontariato laica e apartitica che si è costituita a Milano nel 1987 allo scopo di promuovere e di tutelare i diritti di tutti i cittadini stranieri, rom e sinti senza discriminazione alcuna. Il naga è una onlus iscritta ai registri del volontariato.</i></blockquote>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/wemake_cc/albums/72157684341748972" title="opencare MIR - ResQ - Agile Planning"><img src="https://farm5.staticflickr.com/4431/35899552123_346d2e7d86_z.jpg" width="602" height="339" alt="opencare MIR - ResQ - Agile Planning"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-jam.jpg" alt="ResQ-01">
 
-<blockquote><i><b>Resq</b> is an application that makes easier the communication between physician in critical context and migrants who need healthcare services. Unlike the current situation, our service speeds up and eases the sharing of medical data.</i></blockquote>
-
-Continue to read our experience and the related Agile Planning on <b>EdgeRyders</b> by clicking on this [link](https://edgeryders.eu/t/resq-agile-kick-off-at-wemake/547)!
+Raed and the tutors of the <b>opencare</b> team gave us a lot of insights useful to build up the event that we named "SMART TRAVEL", a <b>co-design JAM</b>, and its tools and activities. Click here to read more about the JAM of ResQ!
