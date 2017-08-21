@@ -9,7 +9,7 @@ by: "Silvia"
 published: true
 ---
 
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-raed-02.jpg" alt="ResQ-01">
+<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-raed-02.jpg" alt="ResQ-Raed">
 
 During the first week of the <b>opencare MIR</b>, we get in contact with different associations and we met a lot of interesting people.
 
@@ -20,7 +20,7 @@ Therefore, on 20th of June, he came at WeMake to discuss together about the <b>o
 
 <blockquote><i>Il Naga è un'associazione di volontariato laica e apartitica che si è costituita a Milano nel 1987 allo scopo di promuovere e di tutelare i diritti di tutti i cittadini stranieri, rom e sinti senza discriminazione alcuna. Il naga è una onlus iscritta ai registri del volontariato.</i></blockquote>
 
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-jam.jpg" alt="ResQ-01">
+<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-jam.jpg" alt="ResQ-Jam">
 
 Raed and the tutors of the <b>opencare</b> team gave us a lot of insights which were useful to build up the event that we named "PERCORSI - Let's make it together!", a <b>co-design JAM</b>, and its tools and activities.
 
