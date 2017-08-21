@@ -7,7 +7,7 @@ image: /ResQ/assets/ResQ-post-img-facebook.jpg
 categories: news
 by: "Silvia"
 published: true
-excerpt: The ResQ Facebook page is online! Follow us!
+excerpt: The <b>ResQ Facebook page</b> is online! Follow us!
 ---
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-facebook.jpg" alt="ResQ-Facebook">
