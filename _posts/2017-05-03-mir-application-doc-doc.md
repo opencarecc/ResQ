@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR application - Doc.doc"
 subtitle: "prova prova prova"
 date: 2017-05-03 10:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-Doc-doc-board.png
+image: /ResQ/assets/ResQ-post-img-Doc-doc-board-01.png
 categories: news
 by: "Silvia"
 published: true
