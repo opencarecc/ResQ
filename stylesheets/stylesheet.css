@@ -27,6 +27,10 @@ ul {
   -webkit-padding-start: 20px;
 }
 
+.title_news{
+	height: 3em;
+}
+
 /* === NAVIGATION BAR === */
 nav {
   text-align: center;

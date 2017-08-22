@@ -11,8 +11,10 @@
           <a href="{{ site.baseurl }}{{ post.url }}">
             <img src="{{ post.image }}">
           </a>
-          <h3>{{ post.title }}</h3>
-          <p>{{ post.excerpt }}... <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
+		<div class="title_news">
+			<h3>{{ post.title }}</h3>
+		</div>
+          <p>{{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
         </div>
         {% endfor %}
 
@@ -27,8 +29,10 @@
             <a href="{{ site.baseurl }}{{ post.url }}">
               <img src="{{ post.image }}">
             </a>
-            <h3>{{ post.title }}</h3>
-            <p>{{ post.excerpt }}... <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
+			<div class="title_news">
+				<h3>{{ post.title }}</h3>
+			</div>
+            <p>{{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
           </div>
         {% endfor %}
 
