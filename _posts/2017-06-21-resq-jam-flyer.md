@@ -10,7 +10,7 @@ published: true
 excerpt: Check out our new <b>flyer</b> for the "SMART TRAVEL - let's MAKE it together" JAM!
 ---
 
-Like it and share it all around the world!
+Like it and <b>share it all around the world!</b>
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-jam-flyer.png" alt="ResQ-JAM-Flyer">
 
