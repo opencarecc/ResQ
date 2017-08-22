@@ -26,7 +26,7 @@ ul {
   list-style-type: circle;
   -webkit-padding-start: 20px;
 }
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 42em) {
 	.title_news{
 		height: 3em;
 	}
