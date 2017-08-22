@@ -12,7 +12,7 @@
             <img src="{{ post.image }}">
           </a>
           <h3>{{ post.title }}</h3>
-          <p>{{ post.subtitle }}... <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
+          <p>{{ post.excerpt }}... <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
         </div>
         {% endfor %}
 
@@ -28,7 +28,7 @@
               <img src="{{ post.image }}">
             </a>
             <h3>{{ post.title }}</h3>
-            <p>{{ post.subtitle }}... <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
+            <p>{{ post.excerpt }}... <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a></p>
           </div>
         {% endfor %}
 
