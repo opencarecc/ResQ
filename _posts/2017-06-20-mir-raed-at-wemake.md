@@ -23,6 +23,6 @@ Therefore, on 20th of June, he came at WeMake to discuss together about the <b>o
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-jam.jpg" alt="ResQ-Jam">
 
-Raed and the tutors of the <b>opencare</b> team gave us a lot of insights which were useful to build up the event that we named "PERCORSI - Let's make it together!", a <b>co-design JAM</b>, and its tools and activities.
+Raed and the tutors of the <b>opencare</b> team gave us a lot of insights which were useful to build up the event that we named "SMART TRAVEL - let's MAKE it together", a <b>co-design JAM</b>, and its tools and activities.
 
-Click here to read more about the <b>JAM of ResQ!</b>
+[Click here](https://opencarecc.github.io/ResQ/blog/2017/06/22/resq-jam/) to read more about the <b>JAM of ResQ!</b>
