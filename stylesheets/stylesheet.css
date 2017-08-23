@@ -32,6 +32,10 @@ ul {
 	}
 }
 
+.font_size_12{
+	font-size: 12px;
+}
+
 /* === NAVIGATION BAR === */
 nav {
   text-align: center;
