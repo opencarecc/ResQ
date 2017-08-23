@@ -12,7 +12,7 @@ excerpt: Working, making... enjoying!
 ---
 
 <video id="ResQ-working" preload controls>
-    <source src="https://opencarecc.github.io/ResQ/assets/ResQ-post-video-working-480.mov" type="video/mp4 />
+    <source src="https://opencarecc.github.io/ResQ/assets/ResQ-post-video-working-480.mov" type="video/mp4" />
 
 </video>
 
