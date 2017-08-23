@@ -13,8 +13,7 @@ excerpt: Working, making... enjoying!
 
 <video src="https://opencarecc.github.io/ResQ/assets/ResQ-post-video-working-480.mov" alt="ResQ-working">
 
-<blockquote><i>
-Work it harder
+<blockquote><i>Work it harder
 Make it better
 Do it faster
 Makes us stronger.
