@@ -22,8 +22,6 @@ Do it faster
 <b>Makes us stronger.</b>
 </i></blockquote>
 
+Follow us on our [Facebook page](https://www.facebook.com/ResQ-121899991732625/)!
+
 Cheers by the ResQ team!
-
-***
-
-Keep an eye on our [Facebook page](https://www.facebook.com/ResQ-121899991732625/) for any updates!
