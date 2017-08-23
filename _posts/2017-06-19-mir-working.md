@@ -19,11 +19,11 @@ excerpt: Working, making... enjoying!
 <blockquote><i>Work it harder
 Make it better
 Do it faster
-Makes us stronger.
+<b>Makes us stronger.</b>
 </i></blockquote>
 
-<b><i>Cheers</i> by the ResQ team!</b>
+Cheers by the ResQ team!
 
 ***
 
-Keep an eye on our <b>[Facebook page](https://www.facebook.com/ResQ-121899991732625/)</b> for any updates!
+Keep an eye on our [Facebook page](https://www.facebook.com/ResQ-121899991732625/) for any updates!
