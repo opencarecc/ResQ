@@ -36,7 +36,7 @@ We conducted <b>focus groups</b> on the use of smartphones and their apps.
 
 After the pivot, Doc.doc became <b>ResQ</b>, still a medical app. So we got the suggestion that maybe ResQ could organize any kind of legal docs, not just medical ones.
 
-<a href="http://makeagif.com/gif/resq-opencare-mir-TFn83N" title="ResQ - opencare MIR"><img src="http://i.makeagif.com/media/8-25-2017/TFn83N.gif" alt="ResQ - opencare MIR"></a>
+<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-interview-resq.jpg" alt="ResQ-Interview">
 
 After few interviews, though, we realized that the use of smartphones we envisioned wasn’t consistent to the reality. From this point onwards we radically focused on a <b>deeper research.</b> [Read more...](https://opencarecc.github.io/ResQ/blog/2017/06/14/mir-application-resq/)
 
