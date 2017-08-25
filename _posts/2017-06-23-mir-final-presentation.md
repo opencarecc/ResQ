@@ -2,7 +2,7 @@
 layout: post
 title: "MIR - Final presentation"
 subtitle: "prova prova prova"
-date: 2017-06-25 17:13:04 +0200
+date: 2017-06-23 17:13:04 +0200
 image: /ResQ/assets/ResQ-post-img-logo-03.jpg
 categories: news
 by: "Silvia"
