@@ -26,12 +26,12 @@ We conducted <b>focus groups</b> on the use of smartphones and their apps.
 
 ***
 
-### Our Starting point
+### Our starting point
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-Doc-doc-board-01.png" alt="Doc.doc-Board">
 
 <b>Doc.doc</b>, originally was an app to connect physicians and an easily accessible repository where to <b>storage patient's medical data.</b> After few inspirations we decided to dedicate this kind of service especially to <b>refugees</b>, in order to solve some of their peculiar problems (as language barriers). [Read more...](https://opencarecc.github.io/ResQ/blog/2017/05/03/mir-application-doc-doc/)
 
-### ResQ
+## ResQ
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-ResQ-board-01.png" alt="ResQ-Board">
 
 After the pivot, Doc.doc became <b>ResQ</b>, still a medical app. So we got the suggestion that maybe ResQ could organize any kind of legal docs, not just medical ones.
@@ -42,7 +42,7 @@ After few interviews, though, we realized that the use of smartphones we envisio
 
 ***
 
-### Our team
+## Our team
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-acknowledgements.jpg" alt="ResQ-Team">
 
 * <b>Luca Tarasco</b> - Project Manager - [l.tarasco@gmail.com](mailto:l.tarasco@gmail.com)
