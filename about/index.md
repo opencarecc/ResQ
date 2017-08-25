@@ -36,7 +36,7 @@ We conducted <b>focus groups</b> on the use of smartphones and their apps.
 
 After the pivot, Doc.doc became <b>ResQ</b>, still a medical app. So we got the suggestion that maybe ResQ could organize any kind of legal docs, not just medical ones.
 
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-interview-resq.jpg" alt="ResQ-Interview">
+<a href="http://makeagif.com/gif/resq-opencare-mir-TFn83N" title="ResQ - opencare MIR"><img src="http://i.makeagif.com/media/8-25-2017/TFn83N.gif" alt="ResQ - opencare MIR"></a>
 
 After few interviews, though, we realized that the use of smartphones we envisioned wasn’t consistent to the reality. From this point onwards we radically focused on a <b>deeper research.</b> [Read more...](https://opencarecc.github.io/ResQ/blog/2017/06/14/mir-application-resq/)
 
@@ -51,4 +51,4 @@ After few interviews, though, we realized that the use of smartphones we envisio
 * <b>Francesca Previati</b> - Graphic Designer - [fra.previati@gmail.com](mailto:fra.previati@gmail.com)
 * <b>Raed Kassem</b> - Cultural Mediator - [raed.kassem@gmail.com](mailto:raed.kassem@gmail.com)
 
-Do you want to contribute to the <b>ResQ</b> project? Write us at [resqstaff@wemake.cc](mailto:resqstaff@wemake.cc) or leave a comment below!
+Do you want to contribute to the <b>ResQ</b> project? Write us at [resqstaff@wemake.cc](mailto:resqstaff@wemake.cc) or leave a comment [here](https://disqus.com/home/forums/res-q/)!
