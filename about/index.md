@@ -7,7 +7,7 @@ title: About ResQ by opencare.cc
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-logo-03.jpg" alt="ResQ-Logo">
 
-<b>ResQ</b> is a research project developed within the <b>[opencare Maker in Residence](http://wemake.cc/opencare/maker-in-residence-en/)</b>, as part of the <b>[opencare](opencare.cc)</b> European project - "Open Participatory Engagement in Collective Awareness for REdesign of Care Services”.
+<b>ResQ</b> is a research project developed within the <b>[opencare Maker in Residence](http://wemake.cc/opencare/maker-in-residence-en/)</b>, as part of the <b>[opencare](opencare.cc)</b> European project - <i>"Open Participatory Engagement in Collective Awareness for REdesign of Care Services”.</i>
 
 <b>opencare</b> is an open project, shared with a global community working together to make healthcare and social care accessible to everyone, through working with open-source logic and by promoting ways of enhancing active individual and community participation using a collective intelligence platform.
 
