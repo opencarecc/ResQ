@@ -48,7 +48,8 @@ After few interviews, though, we realized that the use of smartphones we envisio
 * <b>Luca Tarasco</b> - Project Manager - [l.tarasco@gmail.com](mailto:l.tarasco@gmail.com)
 * <b>Nushin Alishahi</b> - UX/ UI Designer - [nushin86@gmail.com](mailto:nushin86@gmail.com)
 * <b>Emanuela Pucci</b> - Facilitator - [pucci.emanuela@gmail.com](mailto:pucci.emanuela@gmail.com)
-* <b>Francesca Previati</b> - Graphic Designer - [fra.previati@gmail.com](mailto:fra.previati@gmail.com)
 * <b>Raed Kassem</b> - Cultural Mediator - [raed.kassem@gmail.com](mailto:raed.kassem@gmail.com)
+* <b>Francesca Previati</b> - Graphic Designer - [fra.previati@gmail.com](mailto:fra.previati@gmail.com)
+
 
 Do you want to contribute to the <b>ResQ</b> project? Write us at [resqstaff@wemake.cc](mailto:resqstaff@wemake.cc) or leave a comment [here](https://disqus.com/home/forums/res-q/)!
