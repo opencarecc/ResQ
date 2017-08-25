@@ -3,7 +3,7 @@ layout: default
 title: About ResQ by opencare.cc
 ---
 
-# About page
+# About
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-smartphone.jpg" alt="ResQ-Smartphone">
 
