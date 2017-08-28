@@ -1,12 +1,12 @@
 # ResQ @ opencare.cc
-<b>ResQ</b> is a research project developed within the <b>opencare Maker in Residence</b>, as part of the <b>opencare European project</b> - </i>“Open Participatory Engagement in Collective Awareness for REdesign of Care Services”.</i>
+<b>ResQ</b> is a research project developed within the <b>[opencare Maker in Residence](http://wemake.cc/opencare/maker-in-residence-en/)</b>, as part of the <b>[opencare European project](http://opencare.cc)</b> - <i>“Open Participatory Engagement in Collective Awareness for REdesign of Care Services”.</i>
 
 This website is maintained by WeMake and ResQ as part of the opencare project and as a result of the opencare Maker in Residence.
 
 ## References
 * More info about the <b>opencare.cc</b> project can be found here <http://opencare.cc>
-* More info about the ResQ project can be found here <https://opencarecc.github.io/ResQ/>
-* Releases and repository of ResQ can be found here <https://github.com/opencarecc/ResQ>
+* More info about the <b>ResQ project</b> can be found here <https://opencarecc.github.io/ResQ/>
+* <b>Releases and repository of ResQ</b> can be found here <https://github.com/opencarecc/ResQ>
 
 ## Software
 In the hardware section of the repository are the source files for the case *[coming soon...]*
@@ -21,7 +21,7 @@ If you want to contribute please have a look under the *TO DO* and *WISH* labels
 
 If you want to contribute with a new feature please open a new issue under the *PROPOSAL* label explaining about it.
 
-##Contacts
+## Contacts
 
 If you want to can get in touch with us please write us at [resqstaff@wemake.cc](resqstaff@wemake.cc) or leave a comment [here](https://disqus.com/home/forums/res-q/)!
 
