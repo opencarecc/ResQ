@@ -1,7 +1,7 @@
 # ResQ @ opencare.cc
 <b>ResQ</b> is a research project developed within the <b>[opencare Maker in Residence](http://wemake.cc/opencare/maker-in-residence-en/)</b>, as part of the <b>[opencare European project](http://opencare.cc)</b> - <i>“Open Participatory Engagement in Collective Awareness for REdesign of Care Services”.</i>
 
-The <b>ResQ website</b> is maintained by [WeMake](http://wemake.cc/) and <b>ResQ</b>.
+The <b>ResQ website</b> is maintained by [WeMake](http://wemake.cc/) and <b>[ResQ](https://github.com/opencarecc/ResQ)</b>.
 
 ## References
 * More info about the <b>opencare.cc</b> project can be found here <http://opencare.cc>
