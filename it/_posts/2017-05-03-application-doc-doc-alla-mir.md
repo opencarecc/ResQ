@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "opencare MIR application - Doc.doc"
+title: "opencare MIR application - Doc.doc IT"
 subtitle: "prova prova prova"
 date: 2017-05-03 10:13:04 +0200
 image: /ResQ/assets/ResQ-post-img-Doc-doc-board-01.png
@@ -8,7 +8,7 @@ categories: news
 by: "Silvia"
 published: true
 excerpt: On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
-lang: en
+lang: it
 ref: mir-application-doc-doc
 ---
 
