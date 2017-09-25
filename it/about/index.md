@@ -3,10 +3,12 @@ layout: default
 title: About
 published: true
 ref: about
-lang: en
+lang: it
 ---
 
 # About
+
+NECESSITA TRADUZIONE
 
 <b>ResQ</b> is a research project developed within the <b>[opencare Maker in Residence](http://wemake.cc/opencare/maker-in-residence-en/)</b>, as part of the <b>[opencare](opencare.cc)</b> European project - <i>"Open Participatory Engagement in Collective Awareness for REdesign of Care Services”.</i>
 
