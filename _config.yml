@@ -1,7 +1,7 @@
 name: ResQ
 author: WeMake
 markdown: kramdown
-baseurl: 
+baseurl:
 permalink: blog/:year/:month/:day/:title/
 plugins:
   - jekyll-sitemap
@@ -21,3 +21,18 @@ index:
 
 default_lang: "en"
 
+# Facebook OpenGraph stuff
+opengraph:
+  title: "ResQ by opencarecc"
+  url: "https://opencarecc.github.io/ResQ/"
+  description: "a digital solution that facilitates integration paths"
+  image_url: "https://opencarecc.github.io/ResQ/assets/OC-Logo-socials.png"
+
+# Twitter Card stuff
+twitter:
+  site: "ResQ by opencarecc"
+  title: "ResQ by opencarecc"
+  description: "a digital solution that facilitates integration paths"
+  creator: "opencarecc"
+  domain: "https://opencarecc.github.io/ResQ/"
+  image_url: "https://opencarecc.github.io/ResQ/assets/OC-Logo-socials.png"
