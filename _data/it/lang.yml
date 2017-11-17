@@ -15,17 +15,25 @@ global:
 # dictionary keys for homeheader.html include file
 header:
   title: "ResQ"
-  tagline: "Questo è il template per il sito di ResQ"
+  tagline: "una soluzione digitale per facilitare i percorsi di integrazione"
   buttons:
     - text: "Vedi su GitHub"
-      link: "https://github.com/opencarecc/voiceinstruments"
+      link: "https://github.com/opencarecc/ResQ"
     - text: "Scarica .zip"
-      link: "https://github.com/opencarecc/voiceinstruments/zipball/master"
+      link: "https://github.com/opencarecc/ResQ/zipball/master"
     - text: "Costruisci!"
-      link: "https://github.com/opencarecc/voiceinstruments/wiki"
+      link: "https://github.com/opencarecc/ResQ/wiki"
 
 # dictionary keys for description.html include file
-description: "Questa è la descrizione del progetto Voice instruments"
+description: "<h3>Riconoscimenti</h3>
+    <p>
+      Questo sito racconta l'esperienza ed il progresso di <b>ResQ</b> all'interno del programma <b>opencare Maker in Residence</b>,
+      che ha avuto luogo presso WeMake dal 12/06 al 25/06/2017.
+    </p>
+  <h2>I nostri valori fondamentali</h2>
+  <p>
+      Descrizione descrizione descrizione
+  </p>"
 
 # dictionary keys for video.html include file
 video:
