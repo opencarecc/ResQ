@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "opencare MIR - Interview"
-subtitle: "prova prova prova"
+subtitle: "ResQ and WeMake, we met each other!"
 date: 2017-06-13 10:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-interview.jpg
-categories: news
+image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-interview.jpg"
+categories: ["news"]
 by: "Silvia"
 published: true
-excerpt: ResQ and WeMake, we met each other!
+excerpt: "ResQ and WeMake, we met each other!"
+lang: en
+ref: mir-interview-resq
 ---
-
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-interview.jpg" alt="ResQ-Interview">
 
 After few days from the beginning of the <b>opencare Maker in Residence</b>, Alessia from the staff of WeMake, interviewed our team to know more about our vision of the ResQ project.
 
