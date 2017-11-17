@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "opencare MIR - Agile Kick-off"
-subtitle: "prova prova prova"
+subtitle: "Together with Chiara and Silvia, from the WeMake - <b>opencare MIR</b> team, we explored the main steps of the Agile Planning."
 date: 2017-06-20 10:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-kickoff.jpg
-categories: news
+image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-working.jpg"
+categories: ["news","update","kick-off"]
 by: "Silvia"
 published: true
-excerpt: Together with Chiara and Silvia, from the WeMake - <b>opencare MIR</b> team, we explored the main steps of the <b>Agile Planning</b>.
+excerpt: "Together with Chiara and Silvia, from the WeMake - <b>opencare MIR</b> team, we explored the main steps of the <b>Agile Planning</b>."
+lang: en
+ref: mir-kick-off-resq
 ---
-
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-kickoff.jpg" alt="ResQ-01">
 
 <blockquote><i>ResQ: Behind the boundaries!</i></blockquote>
 

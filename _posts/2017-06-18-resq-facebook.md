@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "ResQ - Follow us on Fb!"
-subtitle: "prova prova prova"
+subtitle: "The ResQ Facebook page is online! Follow us!"
 date: 2017-06-18 11:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-facebook.jpg
-categories: news
+image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-facebook.jpg"
+categories: ["news","update"]
 by: "Silvia"
 published: true
-excerpt: The <b>ResQ Facebook page</b> is online! Follow us!
+excerpt: "The <b>ResQ Facebook page</b> is online! Follow us!"
+lang: en
+ref: mir-facebook-resq
 ---
-
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-facebook.jpg" alt="ResQ-Facebook">
 
 Hi everyone! We are so excited to announce that we're on Facebook!
 

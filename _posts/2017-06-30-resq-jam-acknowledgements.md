@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "ResQ - Acknowledgements"
-subtitle: "prova prova prova"
+subtitle: "Thank you to all those people we've met along the way, they have been fundamental for our growth"
 date: 2017-06-30 10:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-acknowledgements.jpg
-categories: news
+image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-acknowledgements.jpg"
+categories: ["news","update"]
 by: "Silvia"
 published: true
-excerpt: Un <b>GRAZIE</b> a tutte le persone che abbiamo incontrato perché sono state fondamentali per la crescita del nostro progetto!
+excerpt: "<b>Thank you</b> to all those people we've met along the way, they have been fundamental for our growth"
+lang: en
+ref: mir-acknowledgment-resq
 ---
-
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-acknowledgements.jpg" alt="ResQ-JAM">
 
 <i>(Italian text)</i>
 

@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "MIR - Work it, Make it, Do it!"
-subtitle: "prova prova prova"
+subtitle: "Working, making... enjoying!"
 date: 2017-06-19 11:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-working.jpg
-categories: news
+image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-working.jpg"
+categories: ["news","update"]
 by: "Silvia"
 published: true
-excerpt: Working, making... enjoying!
-
+excerpt: "Working, making... enjoying!"
+lang: en
+ref: mir-working-resq
 ---
 
 <video id="ResQ-working" preload controls>

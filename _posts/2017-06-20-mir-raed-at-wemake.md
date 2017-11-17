@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "opencare MIR - New team member!"
-subtitle: "prova prova prova"
+subtitle: "During the first week of the opencare MIR, we get in contact with different associations and we met a lot of interesting people."
 date: 2017-06-20 16:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-raed-02.jpg
-categories: news
+image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-raed-02.jpg"
+categories: ["news","update"]
 by: "Silvia"
 published: true
-excerpt: During the first week of the <b>opencare MIR</b>, we get in contact with different associations and we met a lot of interesting people.
+excerpt: "During the first week of the <b>opencare MIR</b>, we get in contact with different associations and we met a lot of interesting people."
+lang: en
+ref: mir-raed-resq
 ---
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-raed-02.jpg" alt="ResQ-Raed">

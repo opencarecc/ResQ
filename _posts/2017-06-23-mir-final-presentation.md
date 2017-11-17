@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "MIR - Final presentation"
-subtitle: "prova prova prova"
+subtitle: "All the activities that we've carried out throughout the MIR have led us to ResQ's improvement"
 date: 2017-06-23 17:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-logo-03.jpg
-categories: news
+image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-logo-03.jpg"
+categories: ["news","update"]
 by: "Silvia"
 published: true
-excerpt: Tutte le attività svolte durante la MIR hanno prodotto un’evoluzione e una focalizzazione concreta del nostro progetto.
+excerpt: "All the activities that we've carried out throughout the MIR have led us to ResQ's improvement"
+lang: en
+ref: mir-presentation-resq
 ---
-
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-logo-03.jpg" alt="ResQ-Logo">
 
 <i>(italian text)</i>
 
