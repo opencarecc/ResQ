@@ -1,18 +1,16 @@
 ---
 layout: post
 title: "opencare MIR application - Doc.doc IT"
-subtitle: "prova prova prova"
+subtitle: "Il 3 maggio 2017 abbiamo mandato la nostra application per la CALL FOR MAKERS - opencare Maker In Residence."
 date: 2017-05-03 10:13:04 +0200
-image: /ResQ/assets/ResQ-post-img-Doc-doc-board-01.png
-categories: news
+image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-Doc-doc-board-01.png"
+categories: ["news"]
 by: "Silvia"
 published: true
-excerpt: On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
+excerpt: "Il 3 maggio 2017 abbiamo mandato la nostra application per la <b>CALL FOR MAKERS - opencare Maker In Residence.</b>"
 lang: it
 ref: mir-application-doc-doc
 ---
-
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-Doc-doc-board-01.png" alt="Doc.doc">
 
 <blockquote><i>Doc.doc è la soluzione per mettere in contatto medici che seguono lo stesso paziente, fornendo loro la panoramica più completa possibile.</i></blockquote>
 
