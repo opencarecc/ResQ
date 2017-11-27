@@ -1,0 +1,70 @@
+---
+layout: post
+title: "ResQ - JAM, un sistema collaborativo"
+subtitle: "È giunto il momento di condividere la sfida di ResQ con una comunità milanese, per poter definire i possibili scenari di progetto."
+date: 2017-06-22 10:13:04 +0200
+image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-jam.jpg"
+categories: ["news","aggiornamento","evento"]
+by: "Silvia"
+published: true
+excerpt: "È giunto il momento di condividere la sfida di ResQ con una comunità milanese, per poter definire i possibili scenari di progetto."
+lang: it
+ref: mir-jam-resq
+---
+
+<blockquote><i><b>ResQ</b> è un progetto di ricerca su come i rifugiati si comportano nei confronti della tecnologia mobile.
+In particolare abbiamo condotto una <b>JAM</b> ed un focus group sull'utilizzo di smarphones ed application.</i></blockquote>
+
+Il nostro progetto di ricerca continua, tra la <b>opencare MIR</b> ed i nostri sogni ed ambizioni. Ma è giunto il momento di condividere la sfida di ResQ con una comunità milanese, per poter definire i possibili scenari di progetto ed avere più consapevolezza a riguardo.
+
+Per questo motivo abbiamo deciso di organizzare la <b>#ResQJam</b> entitled <b>"SMART TRAVEL - let's MAKE it together"</b> in collaboration with [Naga Har](https://www.facebook.com/NagaOnlus/).  
+
+A <b>co-design JAM</b> is like a music one, where many 'different musicians' play together, but applied to design. In particular they usually involve service design project.
+In a JAM <b>everyone is involved</b> in the creative and designing process, and it’s crucial the participation of the people the service created will be address to.
+
+The <b>research activity</b> is made of two steps:
+1. A dedicated, very visual, <b>interview</b> to get which are the <b>most popular apps</b> among certain groups of refugees.
+2. The co-design JAM consists in three main parts, in which the most important one is the <b>framing</b> of the research context through a <b>storytelling</b> method.
+
+
+<iframe src="https://docs.google.com/presentation/d/1qTC2J8LsO6RFXSjDGBvxeVlwLyEKeXzQ6fA1h3mN7LU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="691" height="417" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+* <b>Need or problem that we are trying to solve:</b>
+
+The way helpful advices are addressed to refugees might not be that effective. We investigate the way they share information to provide them the best tool.
+
+* <b>Beneficiary:</b>
+
+Refugees and migrants who need to be informed on their rights in foreign countries and willing to know more about them.
+
+***
+
+### Release 0.3 - 2017/06/22
+
+* <b>Project Name:</b>
+	* ResQ
+* <b>Users:</b>
+	* Refugees and migrants
+* <b>Stakeholders:</b>
+	* Social workers
+	* Volunteers
+	* Associations
+* <b>The problem:</b>
+	* The language barrier
+	* The missing digitalization of the gathered personal data
+	* Lack of communication between the users
+	* Critical context (such as reception centers)
+	* Lack of knowledge about the rights in foreign countries
+	* The need of getting some guidance in a new city
+* <b>The solution:</b>
+	* A digital solution (a platform, an app)
+	* A digital database
+* <b>Link:</b>
+	* [ResQ JAM slide presentation](https://docs.google.com/presentation/d/1qTC2J8LsO6RFXSjDGBvxeVlwLyEKeXzQ6fA1h3mN7LU/edit?usp=sharing) 22/06/2017
+
+***
+
+<b>Stay tuned! More informations will follow!</b>
+
+ResQ [Fb page](https://www.facebook.com/ResQ-121899991732625/) ∞ ResQ [Email](mailto:resqstaff@wemake.cc)

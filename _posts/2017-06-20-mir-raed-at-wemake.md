@@ -12,8 +12,6 @@ lang: en
 ref: mir-raed-resq
 ---
 
-<img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-raed-02.jpg" alt="ResQ-Raed">
-
 During the first week of the <b>opencare MIR</b>, we get in contact with different associations and we met a lot of interesting people.
 
 Through this post, we want to present you <b>Raed Kassem</b>, who will be part of the ResQ team! We are more than happy to <b>welcome</b> Raed in our research group!
