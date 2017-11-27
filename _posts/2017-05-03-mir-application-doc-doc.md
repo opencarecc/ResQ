@@ -12,7 +12,7 @@ lang: en
 ref: mir-application-doc-doc
 ---
 
-<blockquote><i>Doc.doc è la soluzione per mettere in contatto medici che seguono lo stesso paziente, fornendo loro la panoramica più completa possibile.</i></blockquote>
+<blockquote><i>Doc.Doc is the solution to put in touch doctors following the same patient, providing them with the most complete overview possible.</i></blockquote>
 
 On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
 

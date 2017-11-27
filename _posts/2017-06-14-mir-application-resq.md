@@ -4,7 +4,7 @@ title: "opencare MIR application - ResQ (was Doc.doc)"
 subtitle: "Thanks to different <b>feedbacks</b> from the online and offline communities we implemented our project from Doc.doc to ResQ."
 date: 2017-06-14 16:30:04 +0200
 image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-Doc-doc-board-01.png"
-categories: ["news"]
+categories: ["news","update"]
 by: "Silvia"
 published: true
 excerpt: "Thanks to different <b>feedbacks</b> from the online and offline communities we implemented our project from Doc.doc to ResQ."

@@ -12,32 +12,32 @@ lang: it
 ref: mir-application-doc-doc
 ---
 
-<blockquote><i>Doc.doc è la soluzione per mettere in contatto medici che seguono lo stesso paziente, fornendo loro la panoramica più completa possibile.</i></blockquote>
+<blockquote><i>Doc.Doc è la soluzione pensata per mettere in contatto i dottori che seguono lo stesso paziente, fornendogli una panoramica quanto più ampia possibile.</i></blockquote>
 
-On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
+Il 3 maggio 2017 abbiamo mandato la nostra application per la <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
 
-The <b>opencare Maker in Residence</b> is the first edition of a special residency program organized by [WeMake](wemake.cc), as part of the <b>opencare</b> European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
+La <b>opencare Maker in Residence</b> è la prima edizione di uno speciale programma di residenza organizzato da [WeMake](wemake.cc), come parte del progetto europeo <b>opencare</b>. Fornisce supporto, assistenza, fondi ed accelerazione ai Makers - da tutto il mondo - che sono interessati a sviluppare / validare / iterare un progetto open source nel campo della salute e del benessere.
 
 <img src="https://opencarecc.github.io/ResQ/assets/ResQ-post-img-Doc-doc-board-02.png" alt="Doc.doc">
 
-We applied as <b>Doc.doc</b>, a <b>platform</b> which facilitates the communications between different physicians about the health state of a patient. More and more complex pathologies require a collaboration between different specialists.
+Abbiamo mandato la nostra application son <b>Doc.Doc</b>, una <b>piattaforma</b> che facilita la comunicazione tra medici diversi sullo stato di salute di un paziente. Patologie più complesse richiedono la collaborazione tra specialisti diversi.
 
-Continue to read our story on <b>EdgeRyders</b> by clicking on this [link](https://edgeryders.eu/t/mir-application-doc-doc-now-resq/6578)! <i>(Italian text)</i>
+Continua a leggere la nostra storia su <b>EdgeRyders</b> cliccando su questo [link](https://edgeryders.eu/t/mir-application-doc-doc-now-resq/6578)!
 
 ***
 
 ### Release 0.1 - 2017/05/03
 
-* <b>Project Name:</b>
+* <b>Nome del progetto:</b>
   * Doc.Doc
-* <b>Users:</b>
-  * Doctors (MD, physicians, specialists)
-  * Patients with complex pathologies
-* <b>The problem:</b>
-  * Lack of communication between the different doctors
-  * Difficulties in collecting all the patient’s informations, data, therapies, treatments, etc
-* <b>The solution:</b>
-  * A digital solution (a platform, an app)
-  * A digital database
+* <b>Utilizzatori:</b>
+  * Dottori
+  * Pazienti con patologie complesse
+* <b>Il problema/bisogno:</b>
+  * Assenza di comunicazione tra diversi dottori
+  * Difficoltà nel raccogliere tutte le informazioni sui pazienti, come dati, terapie, trattamenti, ecc.
+* <b>La soluzione:</b>
+  * Una soluzione digitale (piattagorma, app)
+  * Un database digitale
 * <b>Link:</b>
   * [MIR Application 03/05/2017](https://edgeryders.eu/t/mir-application-doc-doc-now-resq/6578)

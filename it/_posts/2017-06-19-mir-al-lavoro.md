@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "MIR - Work it, Make it, Do it!"
-subtitle: "Working, making... enjoying!"
+subtitle: "Lavorando, facendo... divertendoci!"
 date: 2017-06-19 11:13:04 +0200
 image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-interview-resq.jpg"
-categories: ["news","update"]
+categories: ["news","aggiornamento"]
 by: "Silvia"
 published: true
-excerpt: "Working, making... enjoying!"
-lang: en
+excerpt: "Lavorando, facendo... <b>divertendoci</b>!"
+lang: it
 ref: mir-working-resq
 ---
 
@@ -23,6 +23,6 @@ Do it faster
 <b>Makes us stronger.</b>
 </i></blockquote>
 
-Follow us on our [Facebook page](https://www.facebook.com/ResQ-121899991732625/)!
+Seguici sulla nostra [pagina Facebook](https://www.facebook.com/ResQ-121899991732625/)!
 
-Cheers by the ResQ team!
+Saluti dal team ResQ!

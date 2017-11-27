@@ -4,7 +4,7 @@ title: "opencare MIR - Interview"
 subtitle: "ResQ and WeMake, we met each other!"
 date: 2017-06-13 10:13:04 +0200
 image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-interview.jpg"
-categories: ["news"]
+categories: ["news","update"]
 by: "Silvia"
 published: true
 excerpt: "ResQ and WeMake, we met each other!"
