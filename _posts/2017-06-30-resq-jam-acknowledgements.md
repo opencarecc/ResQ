@@ -7,21 +7,18 @@ image: "https://opencarecc.github.io/ResQ/assets/ResQ-post-img-acknowledgements.
 categories: ["news","update"]
 by: "Silvia"
 published: true
-excerpt: "<b>Thank you</b> to all those people we've met along the way, they have been fundamental for our growth"
+excerpt: "<b>Thank you</b> to all those people we've met along the way, they have been fundamental for our <b>growth</b>"
 lang: en
 ref: mir-acknowledgment-resq
 ---
 
-<i>(Italian text)</i>
-
 ### Maker in Residence
-Vi raccontiamo dopo alcuni giorni, la fantastica residenza vissuta al <b>FabLab [WeMake](wemake.cc)</b> per il <b>progetto europeo [opencare](opencare.cc).</b>
+We are here to share with you, after few days, the amazing residency we've lived at the <b>FabLab [WeMake](wemake.cc)</b> for the <b>european project [opencare](opencare.cc).</b>
 
 
 ### ResQ JAM
-Con il <b>team ResQ</b> abbiamo passato due settimane piene di afa, lavoro e soddisfazioni, inizialmente abbiamo indagato le dinamiche e i diversi <b>servizi di sostegno</b> per i rifugiati nel <b>Comune di Milano | Palazzo Marino</b>, rendendoci conto ad un certo punto che avevamo proprio bisogno di parlare con loro, i protagonisti.
+With <b>ResQ team</b> we've spent two weeks full of heat, work and satisfaction, at first we've investigated the dynamics and different <b>support services</b> for refugees in <b>City of Milan | Palazzo Marino</b>, realizing that we needed to talk directly to them, the protagonists.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/wemake_cc/albums/72157687834993046" title="opencare MIR - ResQ - JAM"><img src="https://farm5.staticflickr.com/4434/35898149664_fd6ea0b242_z.jpg" width="640" height="480" alt="opencare MIR - ResQ - JAM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Allora dopo diversi tentativi, domenica siamo finalmente riusciti ad organizzare la <b>JAM "SMART TRAVEL - let's MAKE it together"</b> all'interno del centro <b>[Naga Har](http://www.naga.it/index.php/centro-har.html)</b>
-luogo di ascolto e di accoglienza per richiedenti asilo, rifugiati e vittime di tortura, laboratorio che ha riscosso un inaspettato interesse e finalmente ci ha permesso di avere un confronto diretto, cercando di trovare insieme le soluzioni ai diversi bisogni, ora siamo in fasi di elaborazione delle risposte e vi terremo aggiornati dei risultati; nel frattempo un <b>GRAZIE</b> a tutte le persone che abbiamo incontrato perché sono state fondamentali per la crescita del nostro progetto!
+Therefore, after few attempts, on Sunday we've managed to organize a <b>JAM "SMART TRAVEL - let's MAKE it together"</b> within the <b>[Naga Har](http://www.naga.it/index.php/centro-har.html)</b>, a welcoming place for asylum seekers, refugees and torture victims. Our lab has raised awareness and interested, and has allowed us to have a direct interaction, trying to find together the solutions to different needs. Now we are elaborating answers and we'll keep you updated about the results; in meanwhile <b>THANK YOU</b> to all those people that we've met because they have been fundamental for our growth!

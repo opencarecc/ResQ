@@ -12,6 +12,6 @@ lang: en
 ref: mir-facebook-resq
 ---
 
-Ciao! Siamo impazienti di annunciare che abbiamo aperto la nostra pagina Facebook!
+Hello everyone! We are thrilled to announce that we've opened our Facebook page!
 
-Seguici per scoprire tutti gli aggiornamenti, clicca <b>[qui](https://www.facebook.com/ResQ-121899991732625/)</b>!
+Follow us to keep be updates, click <b>[here](https://www.facebook.com/ResQ-121899991732625/)</b>!

@@ -17,54 +17,54 @@ In particolare abbiamo condotto una <b>JAM</b> ed un focus group sull'utilizzo d
 
 Il nostro progetto di ricerca continua, tra la <b>opencare MIR</b> ed i nostri sogni ed ambizioni. Ma è giunto il momento di condividere la sfida di ResQ con una comunità milanese, per poter definire i possibili scenari di progetto ed avere più consapevolezza a riguardo.
 
-Per questo motivo abbiamo deciso di organizzare la <b>#ResQJam</b> entitled <b>"SMART TRAVEL - let's MAKE it together"</b> in collaboration with [Naga Har](https://www.facebook.com/NagaOnlus/).  
+Per questo motivo abbiamo deciso di organizzare la <b>#ResQJam</b> dal titolo <b>"SMART TRAVEL - let's MAKE it together"</b> in collaborazione con [Naga Har](https://www.facebook.com/NagaOnlus/).  
 
-A <b>co-design JAM</b> is like a music one, where many 'different musicians' play together, but applied to design. In particular they usually involve service design project.
-In a JAM <b>everyone is involved</b> in the creative and designing process, and it’s crucial the participation of the people the service created will be address to.
+Una <b>co-design JAM</b> è come una di music JAM, dove molti "musicisti" suonano insieme, però in ambito di design. In particolare, generalmente, riguardo a progetti di service design.
+In una JAM <b>tutti sono coinvolti</b> nel processo creativo e progettuale, ed è fondamentale la partecipazione delle persone per le quali viene pensato il progetto.
 
-The <b>research activity</b> is made of two steps:
-1. A dedicated, very visual, <b>interview</b> to get which are the <b>most popular apps</b> among certain groups of refugees.
-2. The co-design JAM consists in three main parts, in which the most important one is the <b>framing</b> of the research context through a <b>storytelling</b> method.
+L'<b>attività di ricerca</b> è composta da due passaggi:
+1. Un'<b>intervista</b> dedicata e visiva, per capire quali siano le applicazioni <b>più popolari</b> tra alcuni gruppi di rifugiati.
+2. La co-design JAM che consiste di tre parti principali, la più importante delle quali consiste nel <b>strutturare</b> il contesto di ricerca attraverso un metodo di <b>storytelling</b>.
 
 
 <iframe src="https://docs.google.com/presentation/d/1qTC2J8LsO6RFXSjDGBvxeVlwLyEKeXzQ6fA1h3mN7LU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="691" height="417" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-* <b>Need or problem that we are trying to solve:</b>
+* <b>Bisogno o problema che si cerca di risolvere:</b>
 
-The way helpful advices are addressed to refugees might not be that effective. We investigate the way they share information to provide them the best tool.
+Il modo in cui i consigli vengono forniti ai rifugiati potrebbe non essere efficace. Bisogna investigare il modo in cui condividono certe informazioni per dare loro lo strumento migliore.
 
-* <b>Beneficiary:</b>
+* <b>Beneficiari:</b>
 
-Refugees and migrants who need to be informed on their rights in foreign countries and willing to know more about them.
+Rifugiati e migranti che abbiano bisogno di essere informati dei loro diritti in paesi stranieri e che abbiano voglia di sapere qualcosa di più.
 
 ***
 
 ### Release 0.3 - 2017/06/22
 
-* <b>Project Name:</b>
+* <b>Nome del progetto:</b>
 	* ResQ
-* <b>Users:</b>
-	* Refugees and migrants
+* <b>Utilizzatori:</b>
+	* Rifugiati e migranti
 * <b>Stakeholders:</b>
-	* Social workers
-	* Volunteers
-	* Associations
-* <b>The problem:</b>
-	* The language barrier
-	* The missing digitalization of the gathered personal data
-	* Lack of communication between the users
-	* Critical context (such as reception centers)
-	* Lack of knowledge about the rights in foreign countries
-	* The need of getting some guidance in a new city
+	* Assistenti sociali
+	* Volontari
+	* Associazioni
+* <b>Il problema/bisogno:</b>
+	* La barriera linguistica
+	* La mancata digitalizzazione dei dati personali raccolti
+	* La mancata comunicazione tra utenti
+	* Contesti critici (come i centri di accoglienza)
+	* La mancata conoscenza dei diritti in paesi stranieri
+	* Il bisogno di essere guidati in una nuova città
 * <b>The solution:</b>
-	* A digital solution (a platform, an app)
-	* A digital database
+	* Una soluzione digitale (una piattaforma, una app)
+	* Un database digitale
 * <b>Link:</b>
-	* [ResQ JAM slide presentation](https://docs.google.com/presentation/d/1qTC2J8LsO6RFXSjDGBvxeVlwLyEKeXzQ6fA1h3mN7LU/edit?usp=sharing) 22/06/2017
+	* [ResQ JAM presentazione slide](https://docs.google.com/presentation/d/1qTC2J8LsO6RFXSjDGBvxeVlwLyEKeXzQ6fA1h3mN7LU/edit?usp=sharing) 22/06/2017
 
 ***
 
-<b>Stay tuned! More informations will follow!</b>
+<b>Resta aggiornato! Seguiranno nuove informazioni!</b>
 
 ResQ [Fb page](https://www.facebook.com/ResQ-121899991732625/) ∞ ResQ [Email](mailto:resqstaff@wemake.cc)
