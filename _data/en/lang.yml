@@ -19,7 +19,7 @@ global:
 # dictionary keys for homeheader.html include file
 header:
   title: "ResQ"
-  tagline: "a digital solution that facilitates integration paths"
+  tagline: "Real life experiences in the new city of residence"
   buttons:
     - text: "View on GitHub"
       link: "https://github.com/opencarecc/ResQ"
@@ -36,7 +36,11 @@ description: "<h3>Acknowledgements</h3>
     </p>
   <h2>Our core values</h2>
   <p>
-    Brief description here
+    ResQ is a platform that allows users to live <b>social life experiences</b> in the city where they live, through an <b>exchange</b> of information and experiences,
+    to have social literacy where technology is just the tool to sparkle positive dynamics with the host city, turing it into a '<b>Welcoming City</b>',
+    thanks to the possibility of meeting with people who make themselves available, discovering new places and new local resources, matching interests, abilities and needs.
+    <br><br>
+    The service implements national and international dynamics, facilitating social hospitality, given by the different life experiences. 
   </p>"
 
 # dictionary keys for video.html include file
