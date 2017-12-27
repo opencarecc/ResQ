@@ -25,12 +25,7 @@ header:
       link: "https://github.com/opencarecc/ResQ/wiki"
 
 # dictionary keys for description.html include file
-description: "<h3>Riconoscimenti</h3>
-    <p>
-      Questo sito racconta l'esperienza ed il progresso di <b>ResQ</b> all'interno del programma <b>opencare Maker in Residence</b>,
-      che ha avuto luogo presso WeMake dal 12/06 al 25/06/2017.
-    </p>
-  <h2>I nostri valori fondamentali</h2>
+description: "<h2>I nostri valori fondamentali</h2>
   <p>
       ResQ è una piattaforma tramite la quale gli utenti possano vivere <b>esperienze di vita sociale</b> nella città in cui risiedono, tramite uno <b>scambio</b> di informazioni e di esperienze,
       che permettano un’alfabetizzazione sociale dove la tecnologia sia solo il mezzo, innesca dinamiche positive con la realtà della città ospitante, facendola diventare <b>Città Accogliente</b>,
@@ -38,6 +33,13 @@ description: "<h3>Riconoscimenti</h3>
       <br><br>
       Il servizio implementa dinamiche nazionali e internazionali, facilitando la costruzione di una <b>solida accoglienza sociale</b>, data dalle diverse esperienze vissute.
   </p>"
+
+# dictionary keys for acknowledgement.html include file
+acknowledgement: "<h3>Riconoscimenti</h3>
+    <p>
+      Questo sito racconta l'esperienza ed il progresso di <b>ResQ</b> all'interno del programma <b>opencare Maker in Residence</b>,
+      che ha avuto luogo presso WeMake dal 12/06 al 25/06/2017.
+    </p>"
 
 # dictionary keys for video.html include file
 video:
